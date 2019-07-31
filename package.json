@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.4.2",
+    "knex": "^0.19.1",
+    "pg": "^7.12.0",
+    "run.env": "^1.1.0"
+  }
+}
